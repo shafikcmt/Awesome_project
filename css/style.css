@@ -141,3 +141,50 @@ margin: 0 auto;
     text-align: justify;
 }
 
+/* here we start row 5 css */
+
+#row5{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(232, 172, 61);
+    padding: 50px 0px;
+}
+.get-section{
+    width: 90%;
+    margin: 0 auto;
+}
+.get-top{
+    text-align: center;
+}
+.get-top h1{
+    text-transform: uppercase;
+    font-size: 50px;
+}
+.get-bottom{
+
+
+}
+.get-item {
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+    margin-top: 73px;
+    text-align: center;
+}
+.get-item i{
+    width: 80px;
+    height: 80px;
+    font-size: 70px;
+
+}
+.get-item h2{
+    padding: 20px;
+    text-align: center;
+}
+.get-item p{
+    text-align: justify;
+    
+}
+
+
+
